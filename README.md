@@ -1,3 +1,3 @@
 LATIHAN 3!!!
 
-![fotoa](foto/fotoa.jpg)
+![foto1](foto1.jpg)
